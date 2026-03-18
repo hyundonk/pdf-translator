@@ -1,0 +1,16 @@
+# PDF files (test inputs/outputs)
+*.pdf
+
+# Font files (downloaded at install time)
+fonts/*.ttf
+fonts/*.otf
+
+# Python
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# OS
+.DS_Store
