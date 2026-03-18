@@ -20,7 +20,7 @@ CLI tool that translates Japanese PDF documents into Korean, preserving the orig
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/pdf-translate.git
+git clone https://github.com/hyundonk/pdf-translate.git
 cd pdf-translate
 pip install -e .
 ./setup_fonts.sh
